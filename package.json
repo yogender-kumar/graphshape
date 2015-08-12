@@ -4,6 +4,7 @@
   "description": "Analytic, capture your custom analytic using node, dynamoDB",
   "main": "app.js",
   "scripts": {
+    "test":"npm install",
     "start": "node app.js"
   },
   "author": "Yogender Kumar",
