@@ -1,0 +1,6 @@
+
+> @ start /root/graphshape
+> node app.js
+
+Express server listening on port 8011
+Terminated

@@ -1,0 +1,19 @@
+{
+  "name": "graphshape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-timeout": "^1.6.1",
+    "express": "^4.11.2",
+    "parse-filepath": "^0.5.0",
+    "promise": "^6.1.0",
+    "serve-static": "^1.10.0",
+    "request":"^2.60.0"
+  }
+}
